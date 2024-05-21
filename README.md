@@ -133,12 +133,12 @@ A mobile application for smart home systems provides users with a convenient way
 
 ![Mobile Application](https://i.imgur.com/LKENRbA.jpeg)
 
-<p>Fig: Mobile Application designed for this project/p>
+<p>Fig: Mobile Application designed for this project</p>
 
 
 ![Practical Approach](https://i.imgur.com/b0J5J65.jpg)
 
-<p>Fig: Practical Approach of the project/p>
+<p>Fig: Practical Approach of the project</p>
 
 ### UNO Code
 
