@@ -9,6 +9,7 @@
 - [Project Implementation](#Project-Implementation)
 - [Schematic Circuit Diagram](#Schematic-Circuit-Diagram)
 - [Mobile Application](#Mobile-Application)
+- [Practical Approach](#Practical-Approach)
 - [UNO Code](#UNO-Code)
 - [ESP Code](#ESP-Code)
 - [Conclusion](#Conclusion)
@@ -135,6 +136,7 @@ A mobile application for smart home systems provides users with a convenient way
 
 <p>Fig: Mobile Application designed for this project</p>
 
+### Practical Approach
 
 ![Practical Approach](https://i.imgur.com/b0J5J65.jpg)
 
