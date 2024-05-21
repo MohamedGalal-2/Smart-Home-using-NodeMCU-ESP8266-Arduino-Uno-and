@@ -131,10 +131,14 @@ A mobile application for smart home systems provides users with a convenient way
 4. Quality Assurance and Testing: Thoroughly test the mobile app on various devices to ensure functionality and security. Address any vulnerabilities before deployment.
 5. The mobile application for a smart home system enhances user experience by providing easy access and control over various smart home functionalities. By integrating with NodeMCU ESP8266, the app enables remote monitoring, real-time communication, and automation control, making it an essential part of a modern smart home ecosystem.
 
-![Schematic Circuit Diagram](https://i.imgur.com/LKENRbA.jpeg)
+![Mobile Application](https://i.imgur.com/LKENRbA.jpeg)
 
 <p>Fig: Mobile Application designed for this project/p>
 
+
+![Practical Approach](https://i.imgur.com/b0J5J65.jpg)
+
+<p>Fig: Practical Approach of the project/p>
 
 ### UNO Code
 
